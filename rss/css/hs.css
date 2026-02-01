@@ -3,8 +3,6 @@ body {
     background-color: #FFFFFF;
     color: #000;
 }
-
-
 footer {
     font-size: small;
     align-content: baseline;
@@ -152,7 +150,21 @@ pre code {
 */
 
 .abouttext {
-    margin-left: 30px;
+    position: relative;
+    align-content: center;
 }
 
-
+.biigshed {
+  width: 70vw;
+  height: 100vh;
+  display: block;
+  margin-right: 20px;
+}
+@media (max-width: 599px) {
+.biigshed {
+  width: 97vw;
+  height: 100vh;
+  display: block;
+  margin-right: 0px;
+}
+}
