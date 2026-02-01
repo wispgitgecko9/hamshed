@@ -4,7 +4,7 @@ const slug = params.get("slug");
 if (!slug) {
   document.getElementById("post").innerHTML = "<p>Post not found.</p>";
 } else {
-  fetch(`rss/posts/${slug}.md`)
+  fetch(`../rss/posts/${slug}.md`)
     .then(res => {
       if (!res.ok) throw new Error("Post not found");
       return res.text();
