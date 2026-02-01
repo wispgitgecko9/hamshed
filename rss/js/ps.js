@@ -1,4 +1,4 @@
-fetch("../../posts.json")
+fetch("../../hamshed/posts.json")
   .then(response => response.json())
   .then(posts => {
     const container = document.getElementById("posts");
