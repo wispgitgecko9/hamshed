@@ -21,15 +21,15 @@ The General license is the second teir of ham license. In addition to the privil
 - More transmission permissions accross the 10m, 20m, 40m,and 80m bands.<sup><small>[4]</small>
 - New transmission privileges on the 12m, 30m, 160m, 630m, and 2200m bands.<sup><small>[4]</small>
 
-### Ameteur Extra
-The Ameteur Extra, or Extra license is the most priviliged of the three classes. It grants the privileges of both the General and Technician classes, granting:
+### Amateur Extra
+The Amateur Extra, or Extra license is the most priviliged of the three classes. It grants the privileges of both the General and Technician classes, granting:
 - Any kind of vanity callsign.
 - Full transmission privileges on 15m, 20m, 40m, and 80m bands.<sup><small>[4]</small>
 
 ---
 ### <small><sup>*</sup></small>The Grandfather Clause
 
-There were originally six different license classes: ***Novice***, **Technician**, ***Technician Plus***, **General**, ***Advanced***, and **Ameteur Extra**. <br>
+There were originally six different license classes: ***Novice***, **Technician**, ***Technician Plus***, **General**, ***Advanced***, and **Amateur Extra**. <br>
 The ***Novice***, ***Technician Plus***, and ***Advanced*** class licenses were effectively removed in April of 2000. The ***Technician Plus*** license merged into what is now the **Technician** license, while the ***Novice*** and ***Advanced*** classes were "grandfathered" and can be renewed with the same original privileges.<sup><small>[5]</small></sup>
 
 ---
@@ -37,6 +37,6 @@ The ***Novice***, ***Technician Plus***, and ***Advanced*** class licenses were 
 - <sup><small>[1]</small></sup>**"FCC Licenses and Amateur Radio"** <br> <a href="https://www.arrl.org/ham-radio-licenses"> www.arrl.org </a>
 - <sup><small>[2]</small></sup>**"The Classes of Ham License"** <br> <a href="https://www.rars.org/class/classes-of-licenses.htm"> www.rars.org </a>
 - <sup><small>[3]</small></sup>**"US Amateur Radio Technician Privileges"** <br> <a href="https://www.arrl.org/files/file/Tech%20Band%20Chart/US%20Amateur%20Radio%20Technician%20Privileges.pdf">www.arrl.org</a> <small>[PDF]</small>
-- <sup><small>[4]</small></sup>**"US Ameteur Radio Bands"** <br> 
+- <sup><small>[4]</small></sup>**"US Amateur Radio Bands"** <br> 
 <a href="https://www.arrl.org/files/file/Regulatory/Band%20Chart/Hambands4_Color_11x8_5.pdf?utm_source=chatgpt.com">www.arrl.org</a> <small>[PDF]</small>
 - <sup><small>[5]</small></sup>**"Amateur Radio License Levels / Operator Class"**<br><a href="https://amateurradiotesting.org/license-classes/index.php">amateurradiotesting.org</a>
