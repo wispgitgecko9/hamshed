@@ -30,7 +30,7 @@ The Amateur Extra, or Extra license is the most priviliged of the three classes.
 ### <small><sup>*</sup></small>The Grandfather Clause
 
 There were originally six different license classes: ***Novice***, **Technician**, ***Technician Plus***, **General**, ***Advanced***, and **Amateur Extra**. <br>
-The ***Novice***, ***Technician Plus***, and ***Advanced*** class licenses were effectively removed in April of 2000. The ***Technician Plus*** license merged into what is now the **Technician** license, while the ***Novice*** and ***Advanced*** classes were "grandfathered" and can be renewed with the same original privileges.<sup><small>[5]</small></sup>
+The ***Novice***, ***Technician Plus***, and ***Advanced*** class licenses were effectively removed in April of 2000. The ***Technician Plus*** license merged into what is now the **Technician** license, while the ***Novice*** and ***Advanced*** classes were "grandfathered." They can't be obtained anymore, but they can be renewed if you still have it.<sup><small>[5]</small></sup>
 
 ---
 #### Sources
