@@ -1,0 +1,42 @@
+    body {
+      margin: 0;
+      background: #FFFFFF;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      font-family: 'Courier New', monospace;
+      color: #737373;
+    }
+
+    .symbol {
+      position: relative;
+      font-size: 5rem;
+      font-weight: bold;
+      color: #737373;
+      text-shadow:
+        2px 0 #f4f4f4;
+      animation: glitch 2s infinite;
+      user-select: none;
+    }
+
+    .message {
+      font-size: 2rem;
+      color: #737373;
+      margin-top: 1rem;
+      letter-spacing: 2px;
+    }
+
+    .return a {
+      color:#737373;
+      text-decoration: none;
+      border: 1px solid #73737373;
+    }
+        .return a:hover{
+      color:#737373;
+      text-decoration: none;
+      border: 1px solid #737373;
+      font-weight: bold;
+    }
