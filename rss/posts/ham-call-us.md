@@ -25,7 +25,7 @@ A vanity callsign is like a vanity plate for license plates. You can apply for a
 
 <sup>*</sup><small>(Digital Mobile Radios (DMRs) can have something like phone numbers but that's for a later article.)</small>
 
-<sup>**</sup><small>(The 1x1 format is special, as it is issued by the ARRL, and not the FCC. It is a non-permanent assignment, usually lasting 15 days upon request.)</small>
+<sup>**</sup><small>(The 1x1 format is special, as it is issued by the ARRL, and not the FCC. It is a non-permanent assignment that usually lasts about 15 days upon request. More often than not, 1x1 callsigns are used for special events such as historical anniversaries.)</small>
 
 ---
 #### Sources
