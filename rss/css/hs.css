@@ -5,12 +5,14 @@ body {
 }
 footer {
     font-size: small;
-    align-content: baseline;
+    justify-content: space-between;
     position: relative;
     padding: 16px;
     border-color: #737373;
     background-color: #737373;
     color: #FFFFFF;
+    align-items: center;
+    display: flex;
 }
 footer a {
     color: #FFFFFF;
@@ -22,7 +24,7 @@ footer a:hover {
 }
 
 .foot-left {
-    position: absolute;
+    position: static;
     justify-self: left;
 }
 .foot-left a {
@@ -35,7 +37,7 @@ footer a:hover {
 }
 
 .foot-center {
-    position: absolute;
+    position: static;
     justify-self: center;
 }
 .foot-center a {
@@ -48,7 +50,7 @@ footer a:hover {
 }
 
 .foot-right {
-    position: relative;
+    position: static;
     justify-self: right;
 }
 .foot-right a {
