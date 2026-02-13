@@ -1,11 +1,11 @@
 /*selfmade*/
 
-a {
+.post a {
     color:#000000;
     text-decoration: underline;
     text-decoration-color: blue;
 }
-a:hover {
+.post a:hover {
     color:#737373;
     text-decoration: underline;
 }
@@ -18,6 +18,9 @@ a:hover {
 .back a {
     color: #FFFFFF;
     text-decoration: underline;
+}
+.back a:hover {
+    font-weight: bold;
 }
 
 /* Base reset */
