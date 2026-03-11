@@ -9,6 +9,8 @@
       overflow: hidden;
       font-family: 'Courier New', monospace;
       color: #737373;
+      text-align: center;
+      position: static;
     }
 
     .symbol {
@@ -18,7 +20,6 @@
       color: #737373;
       text-shadow:
         2px 0 #f4f4f4;
-      animation: glitch 2s infinite;
       user-select: none;
     }
 
@@ -27,16 +28,60 @@
       color: #737373;
       margin-top: 1rem;
       letter-spacing: 2px;
+      white-space: pre;
+      max-width: 97vw;
     }
-
+    .return {
+      margin-top: 1px;
+    }
     .return a {
       color:#737373;
       text-decoration: none;
       border: 1px solid #73737373;
+      display: inline-block;
     }
-        .return a:hover{
+    .return a:hover{
       color:#737373;
       text-decoration: none;
       border: 1px solid #737373;
       font-weight: bold;
     }
+
+/* NSM S1 */
+    @media (max-width: 480px) {
+      .symbol {
+        font-size: 4rem;
+      }
+      .message {
+        font-size: 1.6rem;
+        letter-spacing: 1px;
+      }
+    }
+    @media (max-width: 320px) {
+      .symbol {
+        font-size: 3.5rem;
+      }
+      .message {
+        font-size: 1.35rem;
+      }
+    }
+
+/* NSM S2 */
+.bg-texture {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width:  35vw;
+  height: auto;
+  pointer-events: none;
+  opacity: 0.625;
+  z-index: -2;
+  object-fit: contain;
+}
+
+/* Optional tweaks */
+@media (max-width: 640px) {
+  .bg-texture {
+    width: 50vw;
+  }
+}
