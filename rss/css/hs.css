@@ -1,8 +1,41 @@
 body {
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
-    background-color: #FFFFFF;
-    color: #000;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  background-color: #FFFFFF;
+  color: #000;
 }
+h1 {
+  font-weight:700;
+  
+}
+h2 {
+  margin-left: 0.25rem;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+nav {
+  justify-content: space-around;
+  align-content: start;
+  grid-template-columns: auto auto auto;
+  display: flex;
+  padding: 0.2rem;
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  border: 1px solid #737373;
+  border-radius: 6px;
+  color: #000000;
+  background: #fff;
+}
+nav a {
+  color: inherit;
+  text-decoration: none;
+}
+nav a:hover {
+  color: inherit;
+  text-decoration: none;
+  font-weight: bold;
+}
+/* FOOTER Start */
 footer {
     font-size: small;
     justify-content: space-between;
@@ -22,7 +55,7 @@ footer a:hover {
     color: #73737373;
     text-decoration: underline;
 }
-
+/* Left */
 .foot-left {
     position: static;
     justify-self: left;
@@ -35,7 +68,7 @@ footer a:hover {
     color: #eeeeee;
     text-decoration: underline;
 }
-
+/* Center */
 .foot-center {
     position: static;
     justify-self: center;
@@ -48,7 +81,7 @@ footer a:hover {
     color: #eeeeee;
     text-decoration: underline;
 }
-
+/* Right */
 .foot-right {
     position: static;
     justify-self: right;
@@ -61,17 +94,13 @@ footer a:hover {
     color: #eeeeee;
     text-decoration: underline;
 }
+/* FOOTER End */
 
 article .post {
     border-color:#737373;
     border-radius: 6px;
 }
 /* 195, 167, 54 */
-
-h1 {
-    font-family: 'Courier New', Courier, monospace;
-}
-
 
 /* Non-Selfmade */
 
@@ -81,6 +110,7 @@ pre {
   padding: 16px;
   overflow-x: auto;
   border-radius: 6px;
+  border-color:#000000;
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   font-size: 0.9rem;
   line-height: 1.45;
@@ -110,7 +140,7 @@ pre code {
 
   .mobile-banner {
     display: block;
-    text-align: center; /* <-- centers the text inside pre */
+    text-align: center;
   }
 }
 
@@ -124,8 +154,8 @@ pre code {
   margin-bottom: 1rem;
   border: 1px solid #737373;
   border-radius: 6px;
-  text-decoration: none;   /* remove underline */
-  color: inherit;          /* inherit from body */
+  text-decoration: none;
+  color: inherit;
   background: #fff;
 }
 
@@ -139,17 +169,18 @@ pre code {
     color: #000;
     text-decoration: none;
 }
+/*
 .post-card a:hover {
-    color: #737373;
     text-decoration: underline;
-    transition: ease, 10ms;
+    transition: ease, 100ms;
 }
+*/
 
-/* 
 .post-card:hover {
   background: #f5f5f5;
+  transition: ease 10ms;
 } 
-*/
+
 
 .abouttext {
     position: relative;
