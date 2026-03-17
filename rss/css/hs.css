@@ -1,3 +1,4 @@
+/* Main Styles */
 body {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   background-color: #FFFFFF;
@@ -35,7 +36,8 @@ nav a:hover {
   text-decoration: none;
   font-weight: bold;
 }
-/* FOOTER Start */
+
+/* Footer Styles */
 footer {
     font-size: small;
     justify-content: space-between;
@@ -55,7 +57,6 @@ footer a:hover {
     color: #73737373;
     text-decoration: underline;
 }
-/* Left */
 .foot-left {
     position: static;
     justify-self: left;
@@ -68,7 +69,6 @@ footer a:hover {
     color: #eeeeee;
     text-decoration: underline;
 }
-/* Center */
 .foot-center {
     position: static;
     justify-self: center;
@@ -81,7 +81,6 @@ footer a:hover {
     color: #eeeeee;
     text-decoration: underline;
 }
-/* Right */
 .foot-right {
     position: static;
     justify-self: right;
@@ -94,15 +93,15 @@ footer a:hover {
     color: #eeeeee;
     text-decoration: underline;
 }
-/* FOOTER End */
 
+/* Post Styles */
 article .post {
     border-color:#737373;
     border-radius: 6px;
 }
 /* 195, 167, 54 */
 
-/* Non-Selfmade */
+/* Non-Selfmade Self-Edited*/
 
 pre {
   background-color: #737373;
@@ -131,19 +130,6 @@ pre code {
 .mobile-banner {
   display: none;
 }
-
-/* Mobile */
-@media (max-width: 599px) {
-  .desk-banner {
-    display: none;
-  }
-
-  .mobile-banner {
-    display: block;
-    text-align: center;
-  }
-}
-
 .blog .post {
   margin-bottom: 20px;
 }
@@ -158,13 +144,11 @@ pre code {
   color: inherit;
   background: #fff;
 }
-
 .post-card h2,
 .post-card p,
 .post-card small {
   color: #000;
 }
-
 .post-card a {
     color: #000;
     text-decoration: none;
@@ -175,13 +159,12 @@ pre code {
     transition: ease, 100ms;
 }
 */
-
 .post-card:hover {
   background: #f5f5f5;
   transition: ease 10ms;
 } 
 
-
+/* About Styles */
 .abouttext {
     position: relative;
     align-content: center;
@@ -201,3 +184,51 @@ pre code {
   margin-right: 0px;
 }
 }
+
+/* Mobile */
+@media (max-width: 599px) {
+  .desk-banner {
+    display: none;
+  }
+
+  .mobile-banner {
+    display: block;
+    text-align: center;
+  }
+}
+
+/* Resource Styles */
+/* NSM SE */
+  .resource-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px; 
+    padding-bottom: 20px;
+  }
+
+.resource-card {
+  flex: 0 0 calc(50% - 15px);
+  box-sizing: border-box;
+  padding: 16px;
+  border-radius: 5px;
+  display: block;
+  border: 1px solid #737373;
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+  background: #fff;
+}
+
+.resource-card a {
+    color: inherit;
+    text-decoration: none;
+}
+.resource-card a:hover {
+    font-weight: bolder;
+}
+
+  @media (max-width: 599px) {
+    .resource-card {
+      flex: 0 0 100%;
+    }
+  }
