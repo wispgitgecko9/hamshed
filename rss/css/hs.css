@@ -4,6 +4,15 @@ body {
   background-color: #FFFFFF;
   color: #000;
 }
+p a, ul a {
+  text-decoration: none;
+  color: inherit;
+}
+p a:hover, ul a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+  transition: ease 10ms;
+}
 h1 {
   font-weight:700;
   
@@ -13,6 +22,9 @@ h2 {
   font-family: inherit;
   font-weight: 500;
   font-size: 1.5rem;
+}
+h3 {
+  font-weight: 550;
 }
 nav {
   justify-content: space-around;
@@ -231,3 +243,26 @@ pre code {
       flex: 0 0 100%;
     }
   }
+
+  .linedtitle {
+  display: flex;
+  align-items: center;
+}
+
+.linedtitle::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #737373;
+  margin-left: 10px;
+}
+hr {
+  all: unset;
+  display: block;
+  height: 0.5px;
+  background: #737373;
+  margin: 1rem 0;
+}
+ul {
+  list-style: none;
+}
