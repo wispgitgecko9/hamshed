@@ -1,5 +1,12 @@
 [
   {
+    "title": "APRS",
+    "author": "KE9EPP",
+    "description": "An Overveiw of the Automatic Packet Reporting System",
+    "slug": "aprs-us",
+    "date": "3/11/2026"
+  },
+  {
     "title": "Ham Radio License Classes",
     "author": "KE9EPP",
     "description": "Ham Radio License Classes Explained",
