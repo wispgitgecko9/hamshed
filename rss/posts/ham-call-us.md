@@ -33,3 +33,5 @@ A vanity callsign is like a vanity plate for license plates. You can apply for a
 - <sup><small>[1]</small></sup>"ARRL WAS Map" <br> <a href="https://www.arrl.org/files/file/Awards%20Application%20Forms/WASmap_Color.pdf">www.arrl.org</a> <small>[PDF]</small>
 - <sup><small>[2]</small></sup>"Amateur Call Sign Systems" <br> <a hfref="https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service/amateur-call-sign-systems#:~:text=Each%20call%20sign%20has%20a,The%20groups%20are:">www.fcc.gov</a>
 
+---
+*Last edited January 4th, 2026.*

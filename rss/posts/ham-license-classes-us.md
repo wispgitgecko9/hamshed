@@ -40,3 +40,6 @@ The ***Novice***, ***Technician Plus***, and ***Advanced*** class licenses were 
 - <sup><small>[4]</small></sup>**"US Amateur Radio Bands"** <br> 
 <a href="https://www.arrl.org/files/file/Regulatory/Band%20Chart/Hambands4_Color_11x8_5.pdf?utm_source=chatgpt.com">www.arrl.org</a> <small>[PDF]</small>
 - <sup><small>[5]</small></sup>**"Amateur Radio License Levels / Operator Class"**<br><a href="https://amateurradiotesting.org/license-classes/index.php">amateurradiotesting.org</a>
+
+---
+*Last edited January 5th, 2026.*
