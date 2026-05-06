@@ -8,3 +8,6 @@ slug: "hello-world"
 ---
 Psalm 145:18:
 "The Lord is near to all who call upon Him, all who call upon Him in truth."
+
+---
+*Ham Shed Started January 3rd, 2026.*
