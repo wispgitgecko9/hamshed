@@ -9,7 +9,7 @@ fetch("../../posts.json")
         const card = document.createElement("a");
 
         card.href = `/post.html?slug=${post.slug}`;
-        card.className = "post-card";
+        card.className = "card";
 
         card.innerHTML = `
         <h2><a href="/post.html?slug=${post.slug}">${post.title}</a></h2>
