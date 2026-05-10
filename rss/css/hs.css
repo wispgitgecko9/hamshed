@@ -151,7 +151,7 @@ pre code {
   }
 }
 
-/* Post and card Styles***********************************************************************/
+/* Post Styles***********************************************************************/
 .blog .post {
   margin-bottom: 20px;
 }
@@ -161,7 +161,6 @@ pre code {
     transition: ease, 100ms;
 }
 */
-
 /* Card Styles***********************************************************************/
 /* NSM SE */
 .card-container {
@@ -197,8 +196,15 @@ pre code {
 }
 @media (min-width:600px) {.card-container {width: 99.8vw;}}
 @media (max-width: 599px) {.card {flex: 0 0 100%;}}
+/* Home Styles***********************************************************************/
 
-  /* About Styles***********************************************************************/
+.hometext::after {
+  content: "";
+  display: block;
+  clear: both;
+  margin-bottom: -1rem;
+}
+/* About Styles***********************************************************************/
 .abouttext {
     position: relative;
     align-content: center;
@@ -220,6 +226,14 @@ pre code {
 }
 */
 
+/* Image Styles***********************************************************************/
+.shed-image {
+  float: right;
+  width: 40vw;
+  margin: 0 0px 20px 0;
+  border-radius: 4px;
+}
+
 /* Misc. Styles***********************************************************************/
 
   .linedtitle {
@@ -235,6 +249,7 @@ pre code {
 }
 
 hr {
+  clear: left;
   all: unset;
   display: block;
   height: 0.5px;
