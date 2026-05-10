@@ -229,8 +229,8 @@ pre code {
 /* Image Styles***********************************************************************/
 .shed-image {
   float: right;
-  width: 40vw;
-  margin: 0 0px 20px 0;
+  width: 200px;
+  margin: 0 0 20px 7px;
   border-radius: 4px;
 }
 
