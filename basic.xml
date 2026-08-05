@@ -1,0 +1,31 @@
+ <!-- Basic -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ham Shed – Amateur Radio</title>
+  <meta name="description" content="Concise summary of the page (150–160 characters)">
+  <meta name="robots" content="index">
+  <meta name="googlebot" content="index">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Ham Shed – Amateur Radio">
+  <meta property="og:description" content="The Ham Shed - Learn About Amateur Radio">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://hamshed.com/">
+  <meta property="og:image" content="https://hamshed.com/rdd/pngl/greenhamshed.png">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Ham Shed – Amateur Radio">
+  <meta name="twitter:description" content="The Ham Shed - Learn About Amateur Radio">
+  <meta name="twitter:image" content="https://hamshed.com/rdd/pngl/greenhamshed.png">
+
+  <!-- Language -->
+  <meta http-equiv="content-language" content="en">
+
+  <!-- Theme / UI -->
+  <meta name="theme-color" content="#737373">
+  <meta name="format-detection" content="telephone=no">
+
+  <!-- Favicons -->
+  <link rel="icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">

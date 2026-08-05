@@ -13,6 +13,7 @@ h3 {
   font-weight: 550;
 }
 body {
+  
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   background-color: #FFFFFF;
   color: #000;
@@ -30,8 +31,8 @@ p a:hover, ul a:hover {
 /* Navigation Styles***********************************************************************/
 nav {
   justify-content: space-around;
-  align-content: start;
-  grid-template-columns: auto auto auto;
+  /* align-content: start;  Apparently these don't do anything? */
+  /* grid-template-columns: auto auto auto; I'm leaving these lines here just in case... for later. */
   display: flex;
   padding: 0.2rem;
   margin-bottom: 0.5rem;
