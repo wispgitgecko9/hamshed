@@ -8,7 +8,7 @@ slug: "aprs-us"
 ---
 ### Be Patient...
 
-*Sorry, I'm still working on this article. I haven't all the time in the world, you know.*
+*Sorry, I'm still working on this article. I haven't all the time in the world, you know.* Tnx for understanding :]
 
 ---
 #### Sources
