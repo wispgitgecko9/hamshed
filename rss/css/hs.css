@@ -63,6 +63,7 @@ footer {
     color: #FFFFFF;
     align-items: center;
     display: flex;
+    clear: both;
 }
 footer a {
     color: #FFFFFF;
